@@ -14,12 +14,11 @@
 - **AI & Data:** Prompt Engineering, Artificial Intelligence Practitioner
 - **Other:** Time Management, Teamwork, Communication, Work Ethic, Negotiation
 
-/n 
-/n
-/n
-/n
+/tab
 
+/tab
 
+/tab
 
 
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gznpcehavrcikcrda43keqdvey)
