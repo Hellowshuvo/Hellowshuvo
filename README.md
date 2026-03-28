@@ -1,31 +1,135 @@
-<h1>ʏᴇᴀsɪɴ ᴀʀᴀғᴀᴛ sʜᴜᴠᴏ</h1>
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-👨‍💻 Hi, I'm Shuvo. Motivated Computer Science student actively building advanced skills in software engineering, AI automation, and graphic design. Quick learner with a proactive mindset, eager to contribute fresh ideas and technical value to dynamic teams.
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hellowshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="hellowshuvo" /> 
+<p align="center">
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
 
- ## 🤹‍♂️Skills 
-- **Programming:** C, Java
-- **Version Control:** Git, GitHub
-- **Productivity:** Microsoft Office, Microsoft PowerPoint, Microsoft Word
-- **Design:** Adobe Photoshop
-- **AI & Data:** Prompt Engineering, Artificial Intelligence Practitioner
-- **Other:** Time Management, Teamwork, Communication, Work Ethic, Negotiation
-
-## 🧑‍💻 About Me
-I'm **Yeasin Arafat Shuvo**, a CSE student at United International University with a passion for **AI**, **software engineering**, and **creative automation**.  
-I specialize in **prompt engineering**, building smart apps, and designing intuitive user experiences.  
-Currently diving into **React Native**, **Python**, and **AR-powered weather apps** with a minimalistic design approach.  
-I'm also exploring **machine learning**, **C programming**, and **AI-generated storytelling**.  
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
 <br>
-⚡ *I use AI because I’m too smart to waste time 😉*
+</p>
 
-🔭 Currently learning and building projects with the help of AI  
-🌱 Always learning and exploring new technologies  
-🏆 Passionate about automation, prompt engineering, and creative coding  
-🎓 Pursuing a Bachelor's in Computer Science at United International University  
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Erwin Lejeune
+located_in: Abu Dhabi, UAE
+from: Nantes (France)
+job: Lead Robotics Software Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Technology Innovation Institute
+past experiences:
+  - ["Sr Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-Now"]
+  - ["Principal Solutions Engineer", "Web3, AI", "Unchained Labs", "Stealth", "2024-Now"]
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
 
 
- 
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#10](https://github.com/guilyx/awesome-github-pages-portfolios/issues/10#issuecomment-4137044420) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+2. 🎉 Merged PR [#60](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/60) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+3. 🎉 Merged PR [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+4. 🗣 Commented on [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59#issuecomment-4068010773) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+5. 🎉 Merged PR [#11](https://github.com/guilyx/muxai/pull/11) in [guilyx/muxai](https://github.com/guilyx/muxai)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%204%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.65%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 550.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,750 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 111 Public Repositories 
+ > 
+> 🔑 39 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                7508 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                7432 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
+🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 27/03/2026 13:54:26 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 26 March 2026
+
+Total Time: 2,352 hrs 5 mins
+
+C++                        745 hrs 4 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.68 %
+Python                     375 hrs 23 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.96 %
+Go                         313 hrs 39 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.34 %
+C                          146 hrs 40 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.24 %
+YAML                       134 hrs 38 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.72 %
+Bash                       120 hrs 40 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.13 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
