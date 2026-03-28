@@ -6,6 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=hellowshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="hellowshuvo" /> 
 </p>
 
+
+
+
  ## 🤹‍♂️Skills 
 - **Programming:** C, Java
 - **Version Control:** Git, GitHub
@@ -14,11 +17,7 @@
 - **AI & Data:** Prompt Engineering, Artificial Intelligence Practitioner
 - **Other:** Time Management, Teamwork, Communication, Work Ethic, Negotiation
 
-/tab
 
-/tab
-
-/tab
 
 
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gznpcehavrcikcrda43keqdvey)
