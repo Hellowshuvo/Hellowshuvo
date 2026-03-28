@@ -14,6 +14,10 @@
 - **AI & Data:** Prompt Engineering, Artificial Intelligence Practitioner
 - **Other:** Time Management, Teamwork, Communication, Work Ethic, Negotiation
 
+/n 
+/n
+/n
+/n
 
 
 
