@@ -15,4 +15,7 @@
 - **Other:** Time Management, Teamwork, Communication, Work Ethic, Negotiation
 
 
+
+
+
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gznpcehavrcikcrda43keqdvey)
