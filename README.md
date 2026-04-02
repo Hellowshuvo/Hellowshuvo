@@ -7,7 +7,6 @@ Computer Science student developing skills in software engineering, AI automatio
 </p>
 
 ‎ 
-‎ ‎ 
 ‎ 
 
  ## 🤹‍♂️Skills 
